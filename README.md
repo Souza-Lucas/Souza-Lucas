@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/souza-lucas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souza-lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-lucas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=souza-lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-lucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -12,6 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Yoda" height="100" src="https://cdn.discordapp.com/attachments/724320318059184181/995877667662467113/154988281-a5bd702d-c4c9-4a05-ac7f-b3bfa8554fdf.gif">
 </div>
 
 <p/>
