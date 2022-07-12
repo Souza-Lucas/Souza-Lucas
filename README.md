@@ -1,4 +1,4 @@
-### Olá! Me chamo Lucas Souza,sou estudante de Sistemas de Informação pela UFRN!
+### Olá! Me chamo Lucas Souza e sou estudante de Sistemas de Informação pela UFRN!
 
 <div align="center">
   <a href="https://github.com/souza-lucas">
